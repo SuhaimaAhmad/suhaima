@@ -125,6 +125,9 @@ header {
                 position: absolute;
                 top: 30px;
                 right: 20px;
+                &:hover {
+                    background-color: var(--base-100);
+                }
             }
         }
     }
