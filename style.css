@@ -148,6 +148,7 @@ header {
 
         nav {
             margin-top: 10px;
+            margin-right: -10px;
             width: 100%;
 
             ul {
